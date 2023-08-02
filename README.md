@@ -23,11 +23,9 @@ Component | Description
 
 ## Tweaks
 - Deleted Kexts unnecessary for running macOS Big Sur and older:
-
-Original | Modified
----------|----------
-![](/Users/5t33z0/Desktop/og.png) | ![](/Users/5t33z0/Desktop/modded.png)
-
+  Original | Modified
+  ---------|----------
+  ![og](https://github.com/5T33Z0/iMac-2010-Big-Sur/assets/76865553/aa2dc5d0-da40-4abf-8c70-94caee990180) | ![modded](https://github.com/5T33Z0/iMac-2010-Big-Sur/assets/76865553/25c2181d-a300-44a6-841e-31d2e6cd29c6)
 - Uses latest nightly OpenCore and Kext builds
 - Grey Bootscreen just like vanilla iMac
 
