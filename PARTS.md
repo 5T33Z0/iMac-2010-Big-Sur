@@ -20,3 +20,6 @@ Lynfield Desktop or Server CPUs:
 - **Other**: [Dell Precision 7710 7720 AMD FirePRO WX7100 8GB GDDR5](https://de.aliexpress.com/item/1005001997429932.html?gatewayAdapt=glo2deu)
 
 **NOTE**: GPU upgrades require flashing the correct vBIOS and some even require a different heatsink.
+
+## SSD Mount (3D print)
+- https://www.thingiverse.com/thing:2267285
