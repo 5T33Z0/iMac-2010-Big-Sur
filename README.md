@@ -18,7 +18,7 @@ Component | Description
 **CPU** | Intel Core i7-870 (upgraded from i3-550)
 **GPU** | ATI Radeon HD 5670 (512 MB)
 **RAM** | 16 GB DRR3 by Samsung (1333 Mhz)
-**Storage** | Kingston 120 GB SSD (for testing)
+**Storage** | Kingston 120 GB SSD (for testing) with custom-made, 3d printed mount.
 **Ethernet** | Broadcom BCM5701
 **WiFi** | Atheros AR 9280 
 **Bluetooth** | Broadcom BCM2046
