@@ -15,7 +15,7 @@
 		<key>Hardware-iMac-dGPU-1</key>
 		<string>1002:68C0</string>
 		<key>OpenCore-Version</key>
-		<string>0.9.5 - RELEASE</string>
+		<string>0.9.6 - RELEASE</string>
 		<key>Original-Model</key>
 		<string>iMac11,3</string>
 		<key>Spoofed-Model</key>
@@ -174,7 +174,7 @@
 				<key>BundlePath</key>
 				<string>AppleALC.kext</string>
 				<key>Comment</key>
-				<string>V1.8.5 | AppleHDA Patching</string>
+				<string>V1.8.6 | AppleHDA Patching</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -345,6 +345,24 @@
 				<string></string>
 				<key>MinKernel</key>
 				<string>20.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>AdvancedMap.kext</string>
+				<key>Comment</key>
+				<string>V3.0.0 | Enabled 3D Globe in Maps (macOS12+)</string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AdvancedMap</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>21.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -1154,7 +1172,7 @@
 			<integer>0</integer>
 		</dict>
 		<key>ConnectDrivers</key>
-		<true/>
+		<false/>
 		<key>Drivers</key>
 		<array>
 			<dict>
@@ -1256,7 +1274,7 @@
 			<key>IgnoreTextInGraphics</key>
 			<false/>
 			<key>InitialMode</key>
-			<string></string>
+			<string>Auto</string>
 			<key>ProvideConsoleGop</key>
 			<true/>
 			<key>ReconnectGraphicsOnConnect</key>
