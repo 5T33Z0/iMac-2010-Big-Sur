@@ -17,7 +17,7 @@ Lynfield Desktop or Server CPUs:
 
 ## GPU Options
 
-- **List of cards**: http://macintoshmen.is-great.net/2019/09/08/imac-2009-to-2011-upgrade-guide/?i=1
+- **List of cards**: [http://macintoshmen.is-great.net/2019/09/08/imac-2009-to-2011-upgrade-guide/?i=1](http://macintoshmen.is-great.net/2019/09/08/imac-2009-to-2011-upgrade-guide/?i=1)
 - **Other**: [Dell Precision 7710 7720 AMD FirePRO WX7100 8GB GDDR5](https://de.aliexpress.com/item/1005001997429932.html?gatewayAdapt=glo2deu)
 - **GPU Upgrade Guide**: https://forums.macrumors.com/threads/2011-imac-graphics-card-upgrade.1596614/
 
