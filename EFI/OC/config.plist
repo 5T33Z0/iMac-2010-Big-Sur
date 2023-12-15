@@ -212,7 +212,7 @@
 				<key>BundlePath</key>
 				<string>AppleALC.kext</string>
 				<key>Comment</key>
-				<string>V1.8.8 | AppleHDA Patching</string>
+				<string>V1.8.9 | AppleHDA Patching</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
