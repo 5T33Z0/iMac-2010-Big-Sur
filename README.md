@@ -52,6 +52,8 @@ Since this iMac would require a GPU upgrade in order to run anything the newer t
 
 ![iMac11,3_BS](https://github.com/5T33Z0/iMac-2010-Big-Sur/assets/76865553/ed8ca274-2f4d-4f05-827a-fccf12546e1f)
 
+**Results**: https://browser.geekbench.com/v5/cpu/22028275
+
 ## Credits
 - Acidanthera for OpenCore and kexts
 - Dortania for OpenCore Legacy Patcher and Guide
