@@ -1,0 +1,38 @@
+CPU BrandString: Intel(R) Core(TM) i7 CPU         870  @ 2.93GHz
+MicrocodeRevision: 0x00000009
+Virtualization 0
+CPUID 000106E5 00100800 0098E3FD BFEBFBFF
+ExtSigEcx 00000001
+ExtSigEdx 28100800
+Type 0x00
+Family 0x06
+Model 0x1E
+ExtModel 0x01
+ExtFamily 0x00
+Stepping 0x05
+Features 0x0098E3FDBFEBFBFF
+ExtFeatures 0x0000000128100800
+Signature 0x000106E5
+Brand 0x00
+AppleProcessorType 0x0702
+CstConfigLock 0
+CpuGeneration 6
+MaxId 0x0000000B
+MaxExtId 0x80000008
+PackageCount 1
+CoreCount 4
+ThreadCount 8
+ExternalClock 133
+ARTFrequency 0
+CPUFrequency 2926000000
+CPUFrequencyFromTSC 2925996227
+CPUFrequencyFromART 0
+TscAdjust 0
+CPUFrequencyFromApple 2926000000
+CPUFrequencyFromVMT 0
+FSBFrequency 133000000
+
+CPU00:
+MSR_PLATFORM_INFO: 0x90040031600
+MSR_TURBO_RATIO_LIMIT: 0x18181A1B
+
